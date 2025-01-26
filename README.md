@@ -1,17 +1,16 @@
-# [Project Name] 🎯
-
+protine food website making🎯
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: miracle
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: mayookha - iccs college of engineering and management thrissur
+- Member 2:anjana - iccs college of engineering and management
+- Member 3: [Name - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://protien-foodies-1jwp.vercel.app/
 
 ### Project Description
 [2-3 lines about what your project does]
